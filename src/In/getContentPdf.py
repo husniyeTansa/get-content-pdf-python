@@ -1,7 +1,7 @@
 from pypdf import PdfReader
 
-input_dir = './tmp'
-output_dir = './out'
+input_dir = 'C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/midpoint-ybp-orders/tmp'
+output_dir = 'C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/tmp-txt'
 
 def extract_text_from_pdf(input_path, output_path):
     pdf_reader = PdfReader(input_path)
@@ -26,7 +26,7 @@ def process_pdf_files():
         output_path = os.path.join(output_dir, output_file)
 
         extract_text_from_pdf(input_path, output_path)
-        print(f'PDF processed: {pdf_file}')
+        print('PDF processed: {pdf_file}')
 
 # Process the PDF files
 process_pdf_files()
