@@ -1,0 +1,109 @@
+2023-08-14 14:46:02,401 - Process of get content from PDF start!
+2023-08-14 15:02:26,281 - Process of get content from PDF start!
+2023-08-14 15:02:27,181 - Got stderr: Aug 14, 2023 3:02:26 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: inherited resources of source document are not imported to destination page
+Aug 14, 2023 3:02:26 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: call importedPage.setResources(page.getResources()) to do this
+
+2023-08-14 15:02:27,187 - Get content from PDF is success!
+2023-08-14 15:02:27,187 - Content saved to C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/tmp-txt\SatinAlmaSiparisi_911719.txt
+2023-08-14 15:02:27,188 - Process of get content from PDF start!
+2023-08-14 15:02:28,179 - Got stderr: Aug 14, 2023 3:02:27 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: inherited resources of source document are not imported to destination page
+Aug 14, 2023 3:02:27 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: call importedPage.setResources(page.getResources()) to do this
+
+2023-08-14 15:02:28,184 - Get content from PDF is success!
+2023-08-14 15:02:28,185 - Content saved to C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/tmp-txt\SatinAlmaSiparisi_911747.txt
+2023-08-14 15:02:28,185 - Process of get content from PDF start!
+2023-08-14 15:02:29,005 - Got stderr: Aug 14, 2023 3:02:28 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: inherited resources of source document are not imported to destination page
+Aug 14, 2023 3:02:28 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: call importedPage.setResources(page.getResources()) to do this
+
+2023-08-14 15:02:29,005 - The output file is empty.
+2023-08-14 15:02:29,426 - Get content from PDF is success!
+2023-08-14 15:02:29,430 - Content saved to C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/tmp-txt\SatinAlmaSiparisi_911757.txt
+2023-08-14 15:02:29,430 - Process of get content from PDF start!
+2023-08-14 15:02:30,231 - Got stderr: Aug 14, 2023 3:02:30 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: inherited resources of source document are not imported to destination page
+Aug 14, 2023 3:02:30 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: call importedPage.setResources(page.getResources()) to do this
+
+2023-08-14 15:02:30,231 - The output file is empty.
+2023-08-14 15:02:30,640 - Get content from PDF is success!
+2023-08-14 15:02:30,641 - Content saved to C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/tmp-txt\SatinAlmaSiparisi_911803.txt
+2023-08-14 15:02:30,641 - Process of get content from PDF start!
+2023-08-14 15:02:31,404 - Got stderr: Aug 14, 2023 3:02:31 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: inherited resources of source document are not imported to destination page
+Aug 14, 2023 3:02:31 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: call importedPage.setResources(page.getResources()) to do this
+
+2023-08-14 15:02:31,404 - The output file is empty.
+2023-08-14 15:02:31,792 - Get content from PDF is success!
+2023-08-14 15:02:31,793 - Content saved to C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/tmp-txt\SatinAlmaSiparisi_911806.txt
+2023-08-14 15:02:31,793 - Process of get content from PDF start!
+2023-08-14 15:02:32,704 - Got stderr: Aug 14, 2023 3:02:32 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: inherited resources of source document are not imported to destination page
+Aug 14, 2023 3:02:32 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: call importedPage.setResources(page.getResources()) to do this
+
+2023-08-14 15:02:32,711 - Get content from PDF is success!
+2023-08-14 15:02:32,712 - Content saved to C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/tmp-txt\SatinAlmaSiparisi_911849.txt
+2023-08-14 15:51:11,532 - Process of get content from PDF start!
+2023-08-14 15:51:12,340 - Got stderr: Aug 14, 2023 3:51:12 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: inherited resources of source document are not imported to destination page
+Aug 14, 2023 3:51:12 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: call importedPage.setResources(page.getResources()) to do this
+
+2023-08-14 15:52:26,186 - Process of get content from PDF start!
+2023-08-14 15:52:26,992 - Got stderr: Aug 14, 2023 3:52:26 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: inherited resources of source document are not imported to destination page
+Aug 14, 2023 3:52:26 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: call importedPage.setResources(page.getResources()) to do this
+
+2023-08-14 15:52:26,997 - Get content from PDF is success!
+2023-08-14 15:52:26,998 - Content saved to C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/tmp-txt\SatinAlmaSiparisi_911719.txt
+2023-08-14 15:52:26,998 - Process of get content from PDF start!
+2023-08-14 15:52:27,894 - Got stderr: Aug 14, 2023 3:52:27 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: inherited resources of source document are not imported to destination page
+Aug 14, 2023 3:52:27 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: call importedPage.setResources(page.getResources()) to do this
+
+2023-08-14 15:52:27,899 - Get content from PDF is success!
+2023-08-14 15:52:27,899 - Content saved to C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/tmp-txt\SatinAlmaSiparisi_911747.txt
+2023-08-14 15:52:27,900 - Process of get content from PDF start!
+2023-08-14 15:52:28,668 - Got stderr: Aug 14, 2023 3:52:28 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: inherited resources of source document are not imported to destination page
+Aug 14, 2023 3:52:28 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: call importedPage.setResources(page.getResources()) to do this
+
+2023-08-14 15:52:28,668 - The output file is empty.
+2023-08-14 15:52:29,085 - Get content from PDF is success!
+2023-08-14 15:52:29,086 - Content saved to C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/tmp-txt\SatinAlmaSiparisi_911757.txt
+2023-08-14 15:52:29,086 - Process of get content from PDF start!
+2023-08-14 15:52:29,870 - Got stderr: Aug 14, 2023 3:52:29 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: inherited resources of source document are not imported to destination page
+Aug 14, 2023 3:52:29 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: call importedPage.setResources(page.getResources()) to do this
+
+2023-08-14 15:52:29,871 - The output file is empty.
+2023-08-14 15:52:30,330 - Get content from PDF is success!
+2023-08-14 15:52:30,331 - Content saved to C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/tmp-txt\SatinAlmaSiparisi_911803.txt
+2023-08-14 15:52:30,331 - Process of get content from PDF start!
+2023-08-14 15:52:31,170 - Got stderr: Aug 14, 2023 3:52:30 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: inherited resources of source document are not imported to destination page
+Aug 14, 2023 3:52:30 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: call importedPage.setResources(page.getResources()) to do this
+
+2023-08-14 15:52:31,170 - The output file is empty.
+2023-08-14 15:52:31,573 - Get content from PDF is success!
+2023-08-14 15:52:31,574 - Content saved to C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/tmp-txt\SatinAlmaSiparisi_911806.txt
+2023-08-14 15:52:31,574 - Process of get content from PDF start!
+2023-08-14 15:52:32,497 - Got stderr: Aug 14, 2023 3:52:32 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: inherited resources of source document are not imported to destination page
+Aug 14, 2023 3:52:32 PM org.apache.pdfbox.pdmodel.PDDocument importPage
+WARNING: call importedPage.setResources(page.getResources()) to do this
+
+2023-08-14 15:52:32,502 - Get content from PDF is success!
+2023-08-14 15:52:32,503 - Content saved to C:/Users/HusniyeTasna/Desktop/get-content-pdf-python/tmp-txt\SatinAlmaSiparisi_911849.txt

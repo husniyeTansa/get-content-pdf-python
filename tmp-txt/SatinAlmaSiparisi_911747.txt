@@ -1,0 +1,113 @@
+{
+    "title": "Satınalma Siparişleri",
+    "orderNumber": "27 - 911747",
+    "orderDate": "03.08.2023 150300",
+    "deliveryDate": " 04.08.2023",
+    "deliveryPoint": " ANA DEPO BEYOĞLU",
+    "product": [
+        {
+            "Ürün Adı": "YOGURT YARIM YAGLI",
+            "Ürün Kodu": "H17302",
+            "Birim": "ADET2 = 2 KG",
+            "Br.Fiyat": "46,00000 TL",
+            "İnd.": "%0",
+            "İnd.2": "%0",
+            "Tutar": "460,00 TL",
+            "Notlar": "153107889 PINAR 2 KG YOĞURT",
+            "Ödeme": "90 Gün Vade",
+            "KDV": "%1",
+            "Miktar": 10.0
+        },
+        {
+            "Ürün Adı": "TEREYAGI",
+            "Ürün Kodu": "H18101",
+            "Birim": "KG",
+            "Br.Fiyat": "151,00000 TL",
+            "İnd.": "%0",
+            "İnd.2": "%0",
+            "Tutar": "3.624,00 TL",
+            "Notlar": "153106164 PINAR",
+            "Ödeme": "90 Gün Vade",
+            "KDV": "%1",
+            "Miktar": 24.0
+        },
+        {
+            "Ürün Adı": "PEYNIR KREM BEYAZ",
+            "Ürün Kodu": "H17207",
+            "Birim": "ADET4 = 2,75 KG",
+            "Br.Fiyat": "277,83000 TL",
+            "İnd.": "%0",
+            "İnd.2": "%0",
+            "Tutar": "833,49 TL",
+            "Notlar": "153107193",
+            "Ödeme": "60 Gün Vade",
+            "KDV": "%1",
+            "Miktar": 3.0
+        },
+        {
+            "Ürün Adı": "PEYNIR SUZME TAM YAGLİ",
+            "Ürün Kodu": "MB1/3011",
+            "Birim": "ADET = 0,75 KG",
+            "Br.Fiyat": "65,00000 TL",
+            "İnd.": "%0",
+            "İnd.2": "%0",
+            "Tutar": "780,00 TL",
+            "Notlar": "153107187 SÜZME PEYNİR TAM YAĞLI",
+            "Ödeme": "90 Gün Vade",
+            "KDV": "%1",
+            "Miktar": 12.0
+        },
+        {
+            "Ürün Adı": "KREMA SEBASTIAN",
+            "Ürün Kodu": "Y8812",
+            "Birim": "KOLI = 12 LT",
+            "Br.Fiyat": "1,00800 TL",
+            "İnd.": "%0",
+            "İnd.2": "%0",
+            "Tutar": "1,01 TL",
+            "Notlar": "153104685",
+            "Ödeme": "90 Gün Vade",
+            "KDV": "%1",
+            "Miktar": 1.0
+        },
+        {
+            "Ürün Adı": "HİNDİ FÜME",
+            "Ürün Kodu": "SK01499",
+            "Birim": "KOLI1 = 1,54 KG",
+            "Br.Fiyat": "337,40000 TL",
+            "İnd.": "%0",
+            "İnd.2": "%0",
+            "Tutar": "674,80 TL",
+            "Notlar": "152903281 GURME HİNDİ FÜME 110 GR",
+            "Ödeme": "90 Gün Vade",
+            "KDV": "%10",
+            "Miktar": 2.0
+        },
+        {
+            "Ürün Adı": "SUT BARİSTA LATTE 1/1",
+            "Ürün Kodu": "Y966",
+            "Birim": "KOLI = 12 LT",
+            "Br.Fiyat": "284,40000 TL",
+            "İnd.": "%0",
+            "İnd.2": "%0",
+            "Tutar": "1.422,00 TL",
+            "Notlar": "153106407",
+            "Ödeme": "90 Gün Vade",
+            "KDV": "%1",
+            "Miktar": 5.0
+        },
+        {
+            "Ürün Adı": "SOSIS  FRANKFURTER",
+            "Ürün Kodu": "H414578",
+            "Birim": "KOLI =  2,04  KG",
+            "Br.Fiyat": "632,00000  TL",
+            "İnd.": "",
+            "İnd.2": "%0 %0",
+            "Tutar": "1.264,00 TL",
+            "Notlar": "869052724 0847 PINAR  SOSİS KOLİ",
+            "Ödeme": "90 Gün Vade",
+            "KDV": "%1",
+            "Miktar": 2.0
+        }
+    ]
+}

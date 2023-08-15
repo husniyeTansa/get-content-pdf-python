@@ -1,0 +1,48 @@
+{
+    "title": "Satınalma Siparişleri",
+    "orderNumber": "79 - 911719",
+    "orderDate": "03.08.2023 145900",
+    "deliveryDate": " 03.08.2023",
+    "deliveryPoint": " ANA DEPO TRUMP",
+    "product": [
+        {
+            "Ürün Adı": "SUT SERVIS TAM YAGLI",
+            "Ürün Kodu": "Y95",
+            "Birim": "KOLI = 12 LT",
+            "Br.Fiyat": "235,20000 TL",
+            "İnd.": "%0",
+            "İnd.2": "%0",
+            "Tutar": "470,40 TL",
+            "Notlar": "153100688 PINAR 1 LT",
+            "Ödeme": "60 Gün Vade",
+            "KDV": "%1",
+            "Miktar": 2.0
+        },
+        {
+            "Ürün Adı": "SUT BARİSTA LATTE 1/1",
+            "Ürün Kodu": "Y966",
+            "Birim": "KOLI = 12 LT",
+            "Br.Fiyat": "284,40000 TL",
+            "İnd.": "%0",
+            "İnd.2": "%0",
+            "Tutar": "1.137,60 TL",
+            "Notlar": "153106407",
+            "Ödeme": "90 Gün Vade",
+            "KDV": "%1",
+            "Miktar": 4.0
+        },
+        {
+            "Ürün Adı": "SOSIS  FRANKFURTER",
+            "Ürün Kodu": "H414578",
+            "Birim": "KOLI =  2,04  KG",
+            "Br.Fiyat": "632,00000  TL",
+            "İnd.": "",
+            "İnd.2": "%0 %0",
+            "Tutar": "1.264,00 TL",
+            "Notlar": "869052724 0847 PINAR  SOSİS KOLİ",
+            "Ödeme": "90 Gün Vade",
+            "KDV": "%1",
+            "Miktar": 2.0
+        }
+    ]
+}

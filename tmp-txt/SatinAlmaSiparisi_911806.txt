@@ -1,0 +1,22 @@
+{
+    "title": "Satınalma Siparişleri",
+    "orderNumber": "205 - 911806",
+    "orderDate": "03.08.2023 152300",
+    "deliveryDate": " 04.08.2023",
+    "deliveryPoint": " ANA DEPO WATER GARDEN",
+    "product": [
+        {
+            "Ürün Adı": "SUT BARİSTA LATTE 1/1",
+            "Ürün Kodu": "Y966",
+            "Birim": "KOLI = 12 LT",
+            "Br.Fiyat": "284,40000 TL",
+            "İnd.": "%0",
+            "İnd.2": "%0",
+            "Tutar": "568,80 TL",
+            "Notlar": 153106407.0,
+            "Ödeme": "90 Gün Vade",
+            "KDV": "%1",
+            "Miktar": 2.0
+        }
+    ]
+}

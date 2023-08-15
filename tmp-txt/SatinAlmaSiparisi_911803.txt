@@ -1,0 +1,22 @@
+{
+    "title": "Satınalma Siparişleri",
+    "orderNumber": "144 - 911803",
+    "orderDate": "03.08.2023 152200",
+    "deliveryDate": " 04.08.2023",
+    "deliveryPoint": " ANA DEPO WELLDONE",
+    "product": [
+        {
+            "Ürün Adı": "SUT SERVIS TAM YAGLI",
+            "Ürün Kodu": "Y95",
+            "Birim": "KOLI = 12 LT",
+            "Br.Fiyat": "235,20000 TL",
+            "İnd.": "%0",
+            "İnd.2": "%0",
+            "Tutar": "1.411,20 TL",
+            "Notlar": "153100688 PINAR 1 LT",
+            "Ödeme": "60 Gün Vade",
+            "KDV": "%1",
+            "Miktar": 6.0
+        }
+    ]
+}

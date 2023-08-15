@@ -1,0 +1,22 @@
+{
+    "title": "Satınalma Siparişleri",
+    "orderNumber": "257 - 911757",
+    "orderDate": "03.08.2023 150500",
+    "deliveryDate": " 04.08.2023",
+    "deliveryPoint": " ANA DEPO KIRINTI",
+    "product": [
+        {
+            "Ürün Adı": "TON BALIK",
+            "Ürün Kodu": "H11301",
+            "Birim": "KOLI2 = 1,92 KG",
+            "Br.Fiyat": "940,80000 TL",
+            "İnd.": "%0",
+            "İnd.2": "%0",
+            "Tutar": "5.644,80 TL",
+            "Notlar": 164005371.0,
+            "Ödeme": "90 Gün Vade",
+            "KDV": "%1",
+            "Miktar": 6.0
+        }
+    ]
+}

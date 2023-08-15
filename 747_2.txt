@@ -1,0 +1,55 @@
+[             Ürün Adı Ürün Kodu  Miktar  Unnamed: 0   Birim    Br.Fiyat İnd. İnd.2        Tutar      Notlar        Ödeme  KDV
+0        YOGURT YARIM    H17302     NaN        10.0   ADET2    46,00000   %0    %0    460,00 TL   153107889  90 Gün Vade   %1 
+1               YAGLI       NaN     NaN         NaN  = 2 KG          TL  NaN   NaN          NaN  PINAR 2 KG          NaN  NaN
+2                 NaN       NaN     NaN         NaN     NaN         NaN  NaN   NaN          NaN      YOĞURT          NaN  NaN
+3            TEREYAGI    H18101     NaN        24.0      KG   151,00000   %0    %0  3.624,00 TL   153106164  90 Gün Vade   %1
+4                 NaN       NaN     NaN         NaN     NaN          TL  NaN   NaN          NaN       PINAR          NaN  NaN
+5   PEYNIR KREM BEYAZ    H17207     NaN         3.0   ADET4   277,83000   %0    %0    833,49 TL   153107193  60 Gün Vade   %1
+6                 NaN       NaN     NaN         NaN  = 2,75          TL  NaN   NaN          NaN         NaN          NaN  NaN
+7                 NaN       NaN     NaN         NaN      KG         NaN  NaN   NaN          NaN         NaN          NaN  NaN
+8    PEYNIR SUZME TAM  MB1/3011     NaN        12.0    ADET    65,00000   %0    %0    780,00 TL   153107187  90 Gün Vade   %1
+9               YAGLİ       NaN     NaN         NaN  = 0,75          TL  NaN   NaN          NaN       SÜZME          NaN  NaN
+10                NaN       NaN     NaN         NaN      KG         NaN  NaN   NaN          NaN      PEYNİR          NaN  NaN
+11                NaN       NaN     NaN         NaN     NaN         NaN  NaN   NaN          NaN   TAM YAĞLI          NaN  NaN
+12    KREMA SEBASTIAN     Y8812     NaN         1.0  KOLI =  1,00800 TL   %0    %0      1,01 TL   153104685  90 Gün Vade   %1
+13                NaN       NaN     NaN         NaN   12 LT         NaN  NaN   NaN          NaN         NaN          NaN  NaN
+14         HİNDİ FÜME   SK01499     NaN         2.0   KOLI1   337,40000   %0    %0    674,80 TL   152903281  90 Gün Vade  %10
+15                NaN       NaN     NaN         NaN  = 1,54          TL  NaN   NaN          NaN       GURME          NaN  NaN
+16                NaN       NaN     NaN         NaN      KG         NaN  NaN   NaN          NaN       HİNDİ          NaN  NaN
+17                NaN       NaN     NaN         NaN     NaN         NaN  NaN   NaN          NaN    FÜME 110          NaN  NaN
+18                NaN       NaN     NaN         NaN     NaN         NaN  NaN   NaN          NaN          GR          NaN  NaN
+19  SUT BARİSTA LATTE      Y966     NaN         5.0  KOLI =   284,40000   %0    %0  1.422,00 TL   153106407  90 Gün Vade   %1
+20                1/1       NaN     NaN         NaN   12 LT          TL  NaN   NaN          NaN         NaN          NaN  NaN
+21              SOSIS   H414578     NaN         2.0  KOLI =   632,00000   %0    %0  1.264,00 TL   869052724  90 Gün Vade   %1]
+
+
+
+
+
+[            Ürün Adı Ürün Kodu  Miktar  Unnamed: 0   Birim   Br.Fiyat İnd. İnd.2        Tutar      Notlar        Ödeme  KDV
+0     SUT SERVIS TAM       Y95     NaN         2.0  KOLI =  235,20000   %0    %0    470,40 TL   153100688  60 Gün Vade   %1
+1              YAGLI       NaN     NaN         NaN   12 LT         TL  NaN   NaN          NaN  PINAR 1 LT          NaN  NaN
+2  SUT BARİSTA LATTE      Y966     NaN         4.0  KOLI =  284,40000   %0    %0  1.137,60 TL   153106407  90 Gün Vade   %1
+3                1/1       NaN     NaN         NaN   12 LT         TL  NaN   NaN          NaN         NaN          NaN  NaN
+4              SOSIS   H414578     NaN         2.0  KOLI =  632,00000   %0    %0  1.264,00 TL   869052724  90 Gün Vade   %1]
+
+
+
+
+[             Ürün Adı Ürün Kodu  Miktar  Unnamed: 0   Birim   Br.Fiyat İnd. İnd.2      Tutar      Notlar        Ödeme  KDV
+0        YOGURT YARIM    H17302     NaN         2.0   ADET2   46,00000   %0    %0   92,00 TL   153107889  90 Gün Vade   %1
+1               YAGLI       NaN     NaN         NaN  = 2 KG         TL  NaN   NaN        NaN  PINAR 2 KG          NaN  NaN
+2                 NaN       NaN     NaN         NaN     NaN        NaN  NaN   NaN        NaN      YOĞURT          NaN  NaN
+3            TEREYAGI    H18101     NaN         6.0      KG  151,00000   %0    %0  906,00 TL   153106164  90 Gün Vade   %1
+4                 NaN       NaN     NaN         NaN     NaN         TL  NaN   NaN        NaN       PINAR          NaN  NaN
+5   PEYNIR KREM BEYAZ    H17207     NaN         2.0   ADET4  277,83000   %0    %0  555,66 TL   153107193  60 Gün Vade   %1
+6                 NaN       NaN     NaN         NaN  = 2,75         TL  NaN   NaN        NaN         NaN          NaN  NaN
+7                 NaN       NaN     NaN         NaN      KG        NaN  NaN   NaN        NaN         NaN          NaN  NaN
+8    PEYNIR SUZME TAM  MB1/3011     NaN         6.0    ADET   65,00000   %0    %0  390,00 TL   153107187  90 Gün Vade   %1
+9               YAGLİ       NaN     NaN         NaN  = 0,75         TL  NaN   NaN        NaN       SÜZME          NaN  NaN
+10                NaN       NaN     NaN         NaN      KG        NaN  NaN   NaN        NaN      PEYNİR          NaN  NaN
+11                NaN       NaN     NaN         NaN     NaN        NaN  NaN   NaN        NaN   TAM YAĞLI          NaN  NaN
+12              SOSIS   H414578     NaN         1.0  KOLI =  632,00000   %0    %0  632,00 TL   869052724  90 Gün Vade   %1
+13        FRANKFURTER       NaN     NaN         NaN    2,04         TL  NaN   NaN        NaN  0847 PINAR          NaN  NaN
+14                NaN       NaN     NaN         NaN      KG        NaN  NaN   NaN        NaN  SOSİS KOLİ          NaN  NaN
+15         HİNDİ FÜME   SK01499     NaN         1.0   KOLI1  337,40000   %0    %0  337,40 TL   152903281  90 Gün Vade  %10]

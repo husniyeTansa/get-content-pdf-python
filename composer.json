@@ -1,0 +1,27 @@
+{
+    "license": "proprietary",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:map-ecommerce/map-logger.git"
+        },
+        {
+            "type": "git",
+            "url": "git@github.com:map-ecommerce/edifact-orders-d96a-generator.git"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    },
+    "require": {
+        "map-ecommerce/map-logger": "^v1.6.1-alpha",
+        "map-ecommerce/edifact-orders-d96a-generator": "^0.1.14"
+    },
+    "autoload": {
+      "psr-4": {
+        "Midpoint\\Ybp\\": "src/"
+      }
+    }
+}
